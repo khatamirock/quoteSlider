@@ -1,0 +1,4 @@
+#Mon Jun 08 23:53:10 BDT 2020
+base.0=H\:\\WEB-DEV\\quote_slider\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,1 @@
+ H:\\WEB-DEV\\quote_slider\\build\\app\\intermediates\\flutter\\debug\\flutter_assets\\quote\\quoto.json:  H:\\WEB-DEV\\quote_slider\\pubspec.yaml H:\\WEB-DEV\\quote_slider\\quote\\quoto.json
